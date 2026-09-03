@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tanstack/react-table": "^8.21.3",
+    "bootstrap": "^5.3.8",
+    "ol": "^10.10.0",
+    "react": "^19.2.8",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "@babel/preset-react": "^8.0.1",
+    "@babel/preset-typescript": "^8.0.1",
+    "@types/ol": "^6.5.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "babel-loader": "^10.1.1",
+    "css-loader": "^7.1.5",
+    "style-loader": "^4.0.0",
+    "typescript": "^7.0.2",
+    "webpack": "^5.110.1",
+    "webpack-cli": "^7.2.3"
+  }
+}

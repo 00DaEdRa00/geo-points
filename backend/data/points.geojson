@@ -1,0 +1,9005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.041563,
+          55.232919
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Точка №1",
+        "area": 1258.508,
+        "status": true,
+        "date_create": "31.05.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.265027,
+          56.390172
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Точка №2",
+        "area": 1491.806,
+        "status": true,
+        "date_create": "18.07.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.429813,
+          55.662046
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Точка №3",
+        "area": 9708.765,
+        "status": false,
+        "date_create": "05.08.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.594487,
+          55.728734
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Точка №4",
+        "area": 920.793,
+        "status": true,
+        "date_create": "19.05.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.377829,
+          55.350299
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Точка №5",
+        "area": 1288.382,
+        "status": false,
+        "date_create": "25.04.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.533669,
+          55.16457
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Точка №6",
+        "area": 976.206,
+        "status": false,
+        "date_create": "31.03.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.651932,
+          55.334541
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Точка №7",
+        "area": 2294.537,
+        "status": true,
+        "date_create": "30.09.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.241805,
+          55.5694
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Точка №8",
+        "area": 8541.494,
+        "status": false,
+        "date_create": "07.02.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.743976,
+          55.488122
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "name": "Точка №9",
+        "area": 2299.764,
+        "status": true,
+        "date_create": "19.07.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.729961,
+          55.349887
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "name": "Точка №10",
+        "area": 5075.501,
+        "status": true,
+        "date_create": "07.04.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.194963,
+          56.033577
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "name": "Точка №11",
+        "area": 8685.769,
+        "status": false,
+        "date_create": "13.08.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.561121,
+          55.955363
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "name": "Точка №12",
+        "area": 2606.956,
+        "status": false,
+        "date_create": "05.11.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.103582,
+          55.001388
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "name": "Точка №13",
+        "area": 8996.793,
+        "status": true,
+        "date_create": "05.08.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.256534,
+          55.693512
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "Точка №14",
+        "area": 4552.083,
+        "status": true,
+        "date_create": "30.07.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.360866,
+          56.225682
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "Точка №15",
+        "area": 4302.786,
+        "status": false,
+        "date_create": "03.02.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.428026,
+          56.082121
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "Точка №16",
+        "area": 3425.27,
+        "status": false,
+        "date_create": "26.10.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.356601,
+          56.115986
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "Точка №17",
+        "area": 2480.236,
+        "status": true,
+        "date_create": "17.01.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.069438,
+          56.10277
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "Точка №18",
+        "area": 9350.173,
+        "status": false,
+        "date_create": "26.09.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.379863,
+          56.083835
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "Точка №19",
+        "area": 7424.746,
+        "status": false,
+        "date_create": "12.01.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.493911,
+          56.021264
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "name": "Точка №20",
+        "area": 1676.446,
+        "status": false,
+        "date_create": "14.03.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.859733,
+          55.263602
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Точка №21",
+        "area": 7397.927,
+        "status": true,
+        "date_create": "10.01.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.002381,
+          56.374974
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Точка №22",
+        "area": 7701.239,
+        "status": true,
+        "date_create": "09.12.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.104139,
+          56.023715
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Точка №23",
+        "area": 9964.741,
+        "status": false,
+        "date_create": "13.08.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.509385,
+          55.268431
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "Точка №24",
+        "area": 5952.159,
+        "status": true,
+        "date_create": "27.01.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.954483,
+          55.078811
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Точка №25",
+        "area": 8291.521,
+        "status": false,
+        "date_create": "21.06.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.487427,
+          55.179741
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "name": "Точка №26",
+        "area": 8481.875,
+        "status": false,
+        "date_create": "29.06.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.258271,
+          56.479711
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "name": "Точка №27",
+        "area": 5466.314,
+        "status": true,
+        "date_create": "16.08.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.692915,
+          55.663454
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Точка №28",
+        "area": 1695.207,
+        "status": true,
+        "date_create": "15.02.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.098454,
+          55.034299
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "name": "Точка №29",
+        "area": 6092.368,
+        "status": true,
+        "date_create": "17.07.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.049108,
+          56.368995
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "name": "Точка №30",
+        "area": 3697.743,
+        "status": false,
+        "date_create": "16.01.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.447987,
+          56.477401
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "name": "Точка №31",
+        "area": 7919.123,
+        "status": false,
+        "date_create": "17.10.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.138196,
+          55.756067
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "name": "Точка №32",
+        "area": 3081.639,
+        "status": false,
+        "date_create": "10.02.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.389887,
+          56.195649
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "name": "Точка №33",
+        "area": 6268.786,
+        "status": true,
+        "date_create": "14.01.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.132038,
+          56.031556
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "name": "Точка №34",
+        "area": 571.818,
+        "status": true,
+        "date_create": "17.05.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.722024,
+          56.324745
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "name": "Точка №35",
+        "area": 2564.853,
+        "status": true,
+        "date_create": "22.08.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.248543,
+          55.635758
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "name": "Точка №36",
+        "area": 932.704,
+        "status": false,
+        "date_create": "08.08.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.618062,
+          56.459957
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "name": "Точка №37",
+        "area": 2134.703,
+        "status": false,
+        "date_create": "21.04.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.88496,
+          55.665695
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "name": "Точка №38",
+        "area": 6049.619,
+        "status": false,
+        "date_create": "09.06.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.613775,
+          55.448712
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "name": "Точка №39",
+        "area": 5157.369,
+        "status": true,
+        "date_create": "15.05.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.908474,
+          55.745552
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "name": "Точка №40",
+        "area": 6520.013,
+        "status": false,
+        "date_create": "03.08.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.575372,
+          55.75201
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "name": "Точка №41",
+        "area": 2867.836,
+        "status": true,
+        "date_create": "06.09.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.081841,
+          55.35531
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "name": "Точка №42",
+        "area": 438.767,
+        "status": false,
+        "date_create": "25.03.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.867716,
+          55.33588
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "name": "Точка №43",
+        "area": 6572.495,
+        "status": false,
+        "date_create": "28.05.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.718039,
+          55.517147
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "name": "Точка №44",
+        "area": 6872.43,
+        "status": false,
+        "date_create": "25.11.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.449884,
+          56.210146
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "name": "Точка №45",
+        "area": 6277.81,
+        "status": false,
+        "date_create": "01.02.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.441123,
+          55.088112
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "name": "Точка №46",
+        "area": 9586.728,
+        "status": true,
+        "date_create": "03.08.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.217435,
+          55.123375
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "name": "Точка №47",
+        "area": 2121.664,
+        "status": true,
+        "date_create": "23.05.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.881298,
+          55.724635
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "name": "Точка №48",
+        "area": 2785.356,
+        "status": false,
+        "date_create": "22.05.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27202,
+          55.992672
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "name": "Точка №49",
+        "area": 5750.237,
+        "status": false,
+        "date_create": "04.08.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.260867,
+          56.240184
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "name": "Точка №50",
+        "area": 7040.191,
+        "status": true,
+        "date_create": "08.04.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.051006,
+          55.588129
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "name": "Точка №51",
+        "area": 5520.228,
+        "status": true,
+        "date_create": "13.10.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.906227,
+          55.84999
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "name": "Точка №52",
+        "area": 8287.455,
+        "status": true,
+        "date_create": "20.02.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.085385,
+          55.91865
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "name": "Точка №53",
+        "area": 4754.663,
+        "status": false,
+        "date_create": "21.06.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.016226,
+          55.198991
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "name": "Точка №54",
+        "area": 7569.674,
+        "status": true,
+        "date_create": "21.07.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.229332,
+          55.806839
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "name": "Точка №55",
+        "area": 3107.788,
+        "status": false,
+        "date_create": "21.12.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.863372,
+          55.600557
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "name": "Точка №56",
+        "area": 2027.654,
+        "status": false,
+        "date_create": "05.06.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.310841,
+          55.688377
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "name": "Точка №57",
+        "area": 1680.714,
+        "status": true,
+        "date_create": "11.02.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.877241,
+          56.292984
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "name": "Точка №58",
+        "area": 3357.149,
+        "status": true,
+        "date_create": "15.02.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.626926,
+          56.249318
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "name": "Точка №59",
+        "area": 2081.549,
+        "status": true,
+        "date_create": "17.06.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.45015,
+          55.930527
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "name": "Точка №60",
+        "area": 9452.262,
+        "status": true,
+        "date_create": "29.07.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.256844,
+          56.232129
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "name": "Точка №61",
+        "area": 3198.487,
+        "status": false,
+        "date_create": "24.10.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.028193,
+          56.013522
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "name": "Точка №62",
+        "area": 1987.267,
+        "status": true,
+        "date_create": "11.06.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.309618,
+          55.586288
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "name": "Точка №63",
+        "area": 4325.084,
+        "status": false,
+        "date_create": "05.08.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.421443,
+          56.350764
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "name": "Точка №64",
+        "area": 6972.656,
+        "status": false,
+        "date_create": "30.01.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.307633,
+          56.420018
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "name": "Точка №65",
+        "area": 2339.84,
+        "status": true,
+        "date_create": "10.02.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.949939,
+          55.066906
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "name": "Точка №66",
+        "area": 8008.989,
+        "status": true,
+        "date_create": "26.04.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.882285,
+          55.858288
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "name": "Точка №67",
+        "area": 8779.573,
+        "status": true,
+        "date_create": "26.06.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.823147,
+          55.477076
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "name": "Точка №68",
+        "area": 7081.074,
+        "status": false,
+        "date_create": "07.03.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.687293,
+          56.190312
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "name": "Точка №69",
+        "area": 2504.222,
+        "status": false,
+        "date_create": "05.05.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.221333,
+          55.887388
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "name": "Точка №70",
+        "area": 4828.031,
+        "status": true,
+        "date_create": "09.04.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.554393,
+          55.711935
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "name": "Точка №71",
+        "area": 6363.039,
+        "status": false,
+        "date_create": "08.03.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.216437,
+          55.140039
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "name": "Точка №72",
+        "area": 6557.894,
+        "status": true,
+        "date_create": "29.02.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.770252,
+          56.218807
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "name": "Точка №73",
+        "area": 2963.663,
+        "status": true,
+        "date_create": "29.03.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.328633,
+          55.765826
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "name": "Точка №74",
+        "area": 9157.674,
+        "status": false,
+        "date_create": "24.12.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.397622,
+          56.482745
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "name": "Точка №75",
+        "area": 8236.337,
+        "status": false,
+        "date_create": "18.11.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.535167,
+          56.482864
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "name": "Точка №76",
+        "area": 9254.8,
+        "status": false,
+        "date_create": "27.02.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.340956,
+          55.592247
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "name": "Точка №77",
+        "area": 129.781,
+        "status": false,
+        "date_create": "21.06.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.156422,
+          56.129679
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "name": "Точка №78",
+        "area": 753.232,
+        "status": false,
+        "date_create": "08.11.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.20826,
+          55.383412
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "name": "Точка №79",
+        "area": 319.781,
+        "status": true,
+        "date_create": "07.03.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.438606,
+          56.473661
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "name": "Точка №80",
+        "area": 8007.722,
+        "status": true,
+        "date_create": "07.04.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.23501,
+          55.169779
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "name": "Точка №81",
+        "area": 2166.971,
+        "status": true,
+        "date_create": "09.11.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.700799,
+          55.535046
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "name": "Точка №82",
+        "area": 2050.102,
+        "status": true,
+        "date_create": "05.05.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.158821,
+          55.696895
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "name": "Точка №83",
+        "area": 4099.508,
+        "status": false,
+        "date_create": "22.01.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.968225,
+          55.965362
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "name": "Точка №84",
+        "area": 4122.909,
+        "status": false,
+        "date_create": "02.09.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.399359,
+          55.621771
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "name": "Точка №85",
+        "area": 2066.123,
+        "status": true,
+        "date_create": "08.07.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.942275,
+          56.065642
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "name": "Точка №86",
+        "area": 6091.967,
+        "status": true,
+        "date_create": "30.05.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.903423,
+          55.253813
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "name": "Точка №87",
+        "area": 1426.664,
+        "status": false,
+        "date_create": "30.11.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.556924,
+          55.64803
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "name": "Точка №88",
+        "area": 8959.146,
+        "status": true,
+        "date_create": "25.05.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.618272,
+          56.165886
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "name": "Точка №89",
+        "area": 5227.339,
+        "status": false,
+        "date_create": "24.12.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.246846,
+          55.100802
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "name": "Точка №90",
+        "area": 9607.729,
+        "status": false,
+        "date_create": "02.11.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.382636,
+          55.471653
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "name": "Точка №91",
+        "area": 1793.08,
+        "status": true,
+        "date_create": "14.06.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.012734,
+          55.566933
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "name": "Точка №92",
+        "area": 7476.86,
+        "status": true,
+        "date_create": "14.10.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.711945,
+          55.654443
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "name": "Точка №93",
+        "area": 2362.111,
+        "status": true,
+        "date_create": "22.11.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.217102,
+          55.823908
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "name": "Точка №94",
+        "area": 1289.209,
+        "status": false,
+        "date_create": "17.01.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.701262,
+          55.052287
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "name": "Точка №95",
+        "area": 7912.421,
+        "status": false,
+        "date_create": "16.10.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.33393,
+          55.372177
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "name": "Точка №96",
+        "area": 4049.849,
+        "status": false,
+        "date_create": "13.05.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.294095,
+          56.049114
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "name": "Точка №97",
+        "area": 357.604,
+        "status": true,
+        "date_create": "02.02.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.036506,
+          56.167832
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "name": "Точка №98",
+        "area": 5348.201,
+        "status": false,
+        "date_create": "31.10.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.049427,
+          56.428041
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "name": "Точка №99",
+        "area": 6382.414,
+        "status": true,
+        "date_create": "22.12.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.157006,
+          55.639401
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "name": "Точка №100",
+        "area": 2313.041,
+        "status": true,
+        "date_create": "03.06.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.420214,
+          56.026572
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "name": "Точка №101",
+        "area": 470.293,
+        "status": true,
+        "date_create": "25.02.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.090122,
+          56.226424
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "name": "Точка №102",
+        "area": 5479.685,
+        "status": true,
+        "date_create": "06.11.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.286081,
+          55.981164
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "name": "Точка №103",
+        "area": 2430.365,
+        "status": true,
+        "date_create": "28.07.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.00207,
+          56.013944
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "name": "Точка №104",
+        "area": 5726.362,
+        "status": false,
+        "date_create": "21.11.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.623071,
+          55.810736
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "name": "Точка №105",
+        "area": 3972.32,
+        "status": false,
+        "date_create": "18.02.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.459516,
+          56.463567
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "name": "Точка №106",
+        "area": 6742.192,
+        "status": false,
+        "date_create": "21.01.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.168518,
+          56.010383
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "name": "Точка №107",
+        "area": 610.121,
+        "status": false,
+        "date_create": "25.03.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.056124,
+          56.208097
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "name": "Точка №108",
+        "area": 5952.931,
+        "status": false,
+        "date_create": "26.11.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.317931,
+          55.143915
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "name": "Точка №109",
+        "area": 5449.261,
+        "status": true,
+        "date_create": "10.11.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.880152,
+          56.361977
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "name": "Точка №110",
+        "area": 5215.992,
+        "status": false,
+        "date_create": "24.10.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.224938,
+          55.923464
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "name": "Точка №111",
+        "area": 8110.213,
+        "status": true,
+        "date_create": "04.12.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.531927,
+          56.386266
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "name": "Точка №112",
+        "area": 7252.549,
+        "status": true,
+        "date_create": "23.01.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.341842,
+          56.007101
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "name": "Точка №113",
+        "area": 1601.676,
+        "status": true,
+        "date_create": "05.11.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.161768,
+          55.193416
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "name": "Точка №114",
+        "area": 8966.961,
+        "status": false,
+        "date_create": "22.09.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.162636,
+          55.556838
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "name": "Точка №115",
+        "area": 7048.993,
+        "status": true,
+        "date_create": "05.09.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.107971,
+          56.147642
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "name": "Точка №116",
+        "area": 1208.342,
+        "status": false,
+        "date_create": "02.04.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.320484,
+          55.536183
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "name": "Точка №117",
+        "area": 1350.101,
+        "status": false,
+        "date_create": "01.03.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.152471,
+          55.844999
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "name": "Точка №118",
+        "area": 9257.625,
+        "status": false,
+        "date_create": "05.08.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.389642,
+          55.027917
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "name": "Точка №119",
+        "area": 5133.844,
+        "status": true,
+        "date_create": "20.08.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.301391,
+          55.590492
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "name": "Точка №120",
+        "area": 4326.327,
+        "status": false,
+        "date_create": "06.05.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.141332,
+          56.484684
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "name": "Точка №121",
+        "area": 74.25,
+        "status": true,
+        "date_create": "15.02.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.188109,
+          55.741907
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "name": "Точка №122",
+        "area": 3500.735,
+        "status": false,
+        "date_create": "16.04.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.228452,
+          55.478458
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "name": "Точка №123",
+        "area": 6394.537,
+        "status": true,
+        "date_create": "29.02.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.365016,
+          56.323358
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "name": "Точка №124",
+        "area": 4452.514,
+        "status": true,
+        "date_create": "21.11.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.005404,
+          56.212479
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "name": "Точка №125",
+        "area": 1824.601,
+        "status": false,
+        "date_create": "05.10.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.112417,
+          55.320292
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "name": "Точка №126",
+        "area": 4621.595,
+        "status": false,
+        "date_create": "01.01.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.035661,
+          55.134418
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "name": "Точка №127",
+        "area": 3969.593,
+        "status": false,
+        "date_create": "29.05.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.719397,
+          55.304051
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "name": "Точка №128",
+        "area": 3378.209,
+        "status": true,
+        "date_create": "18.07.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.283724,
+          55.473846
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "name": "Точка №129",
+        "area": 9879.223,
+        "status": false,
+        "date_create": "29.07.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.911619,
+          55.355008
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "name": "Точка №130",
+        "area": 4866.996,
+        "status": true,
+        "date_create": "19.03.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.305179,
+          56.335388
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "name": "Точка №131",
+        "area": 9690.868,
+        "status": false,
+        "date_create": "10.03.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.667481,
+          56.351177
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "name": "Точка №132",
+        "area": 6418.457,
+        "status": true,
+        "date_create": "18.10.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.205024,
+          55.925545
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "name": "Точка №133",
+        "area": 3371.067,
+        "status": false,
+        "date_create": "29.10.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.414986,
+          55.56651
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "name": "Точка №134",
+        "area": 778.115,
+        "status": false,
+        "date_create": "29.07.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.685027,
+          55.518881
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "name": "Точка №135",
+        "area": 7112.345,
+        "status": true,
+        "date_create": "11.01.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.703843,
+          55.914805
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "name": "Точка №136",
+        "area": 9242.886,
+        "status": true,
+        "date_create": "05.08.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4086,
+          56.055375
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "name": "Точка №137",
+        "area": 4160.936,
+        "status": false,
+        "date_create": "27.04.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.303323,
+          56.043682
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "name": "Точка №138",
+        "area": 9611.355,
+        "status": true,
+        "date_create": "14.04.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.385987,
+          56.481451
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "name": "Точка №139",
+        "area": 716.314,
+        "status": false,
+        "date_create": "18.04.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.019775,
+          55.792634
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "name": "Точка №140",
+        "area": 3508.443,
+        "status": false,
+        "date_create": "16.07.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.885259,
+          55.782868
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "name": "Точка №141",
+        "area": 3053.846,
+        "status": true,
+        "date_create": "11.05.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.248139,
+          55.366199
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "name": "Точка №142",
+        "area": 5624.017,
+        "status": true,
+        "date_create": "16.09.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.988565,
+          56.193501
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "name": "Точка №143",
+        "area": 7322.682,
+        "status": true,
+        "date_create": "25.12.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.290915,
+          55.670534
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "name": "Точка №144",
+        "area": 4723.731,
+        "status": false,
+        "date_create": "08.03.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.667006,
+          55.465245
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "name": "Точка №145",
+        "area": 6975.856,
+        "status": true,
+        "date_create": "17.04.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.061246,
+          55.441405
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "name": "Точка №146",
+        "area": 3484.969,
+        "status": false,
+        "date_create": "16.02.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.554024,
+          56.010549
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "name": "Точка №147",
+        "area": 2645.146,
+        "status": true,
+        "date_create": "10.08.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.595551,
+          55.211339
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "name": "Точка №148",
+        "area": 8427.825,
+        "status": false,
+        "date_create": "18.04.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77117,
+          55.871267
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "name": "Точка №149",
+        "area": 6872.359,
+        "status": true,
+        "date_create": "10.08.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.973682,
+          55.56407
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "name": "Точка №150",
+        "area": 3394.341,
+        "status": false,
+        "date_create": "20.09.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.79904,
+          55.601318
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "name": "Точка №151",
+        "area": 5931.993,
+        "status": false,
+        "date_create": "05.08.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.943189,
+          56.069654
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "name": "Точка №152",
+        "area": 1006.321,
+        "status": false,
+        "date_create": "06.06.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.096102,
+          55.001638
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "name": "Точка №153",
+        "area": 5520.481,
+        "status": true,
+        "date_create": "07.08.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.120257,
+          56.023408
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "name": "Точка №154",
+        "area": 3489.488,
+        "status": false,
+        "date_create": "29.09.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.411854,
+          55.265744
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "name": "Точка №155",
+        "area": 9638.709,
+        "status": false,
+        "date_create": "10.01.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.703903,
+          56.368598
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "name": "Точка №156",
+        "area": 1922.549,
+        "status": false,
+        "date_create": "25.02.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.382288,
+          56.381427
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "name": "Точка №157",
+        "area": 1462.877,
+        "status": false,
+        "date_create": "24.02.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.888453,
+          55.947666
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "name": "Точка №158",
+        "area": 9089.254,
+        "status": true,
+        "date_create": "23.05.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.016617,
+          56.28027
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "name": "Точка №159",
+        "area": 2184.15,
+        "status": true,
+        "date_create": "21.02.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.048682,
+          55.656894
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "name": "Точка №160",
+        "area": 7475.99,
+        "status": false,
+        "date_create": "11.06.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.802036,
+          55.657167
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "name": "Точка №161",
+        "area": 1081.026,
+        "status": true,
+        "date_create": "06.02.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.599325,
+          55.14666
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "name": "Точка №162",
+        "area": 490.337,
+        "status": false,
+        "date_create": "12.04.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.677266,
+          56.402221
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "name": "Точка №163",
+        "area": 4404.808,
+        "status": true,
+        "date_create": "26.04.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.499684,
+          56.199253
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "name": "Точка №164",
+        "area": 7750.953,
+        "status": false,
+        "date_create": "13.05.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.003782,
+          56.046082
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "name": "Точка №165",
+        "area": 3252.426,
+        "status": true,
+        "date_create": "26.11.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.047756,
+          55.484613
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "name": "Точка №166",
+        "area": 9929.587,
+        "status": true,
+        "date_create": "10.05.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.125411,
+          55.569002
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "name": "Точка №167",
+        "area": 3747.763,
+        "status": false,
+        "date_create": "25.05.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.528836,
+          55.996464
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "name": "Точка №168",
+        "area": 3749.033,
+        "status": true,
+        "date_create": "15.12.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.454822,
+          55.417155
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "name": "Точка №169",
+        "area": 6191.368,
+        "status": true,
+        "date_create": "01.04.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.493539,
+          56.423155
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "name": "Точка №170",
+        "area": 5260.975,
+        "status": false,
+        "date_create": "05.01.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.602996,
+          55.037852
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "name": "Точка №171",
+        "area": 981.93,
+        "status": true,
+        "date_create": "24.08.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.510013,
+          55.480513
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "name": "Точка №172",
+        "area": 8837.174,
+        "status": true,
+        "date_create": "29.05.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.683771,
+          55.265149
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "name": "Точка №173",
+        "area": 6568.087,
+        "status": true,
+        "date_create": "18.12.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.447946,
+          55.544792
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "name": "Точка №174",
+        "area": 4935.518,
+        "status": false,
+        "date_create": "17.11.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.067436,
+          55.294959
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "name": "Точка №175",
+        "area": 6345.272,
+        "status": true,
+        "date_create": "10.11.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.541431,
+          55.20351
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "name": "Точка №176",
+        "area": 1459.916,
+        "status": false,
+        "date_create": "23.09.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.569411,
+          56.044523
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "name": "Точка №177",
+        "area": 6879.528,
+        "status": false,
+        "date_create": "22.11.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.263239,
+          55.362523
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "name": "Точка №178",
+        "area": 7174.63,
+        "status": true,
+        "date_create": "13.07.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.492217,
+          55.460546
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "name": "Точка №179",
+        "area": 7937.552,
+        "status": false,
+        "date_create": "17.11.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.924034,
+          56.296161
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "name": "Точка №180",
+        "area": 2567.147,
+        "status": true,
+        "date_create": "02.06.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.270984,
+          55.825349
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "name": "Точка №181",
+        "area": 2580.443,
+        "status": true,
+        "date_create": "02.04.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.008671,
+          56.307355
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "name": "Точка №182",
+        "area": 5530.746,
+        "status": true,
+        "date_create": "03.01.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.207036,
+          55.043194
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "name": "Точка №183",
+        "area": 8840.726,
+        "status": false,
+        "date_create": "05.07.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.294148,
+          56.332812
+        ]
+      },
+      "properties": {
+        "id": 184,
+        "name": "Точка №184",
+        "area": 8858.175,
+        "status": true,
+        "date_create": "13.10.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.037118,
+          55.527827
+        ]
+      },
+      "properties": {
+        "id": 185,
+        "name": "Точка №185",
+        "area": 1325.155,
+        "status": false,
+        "date_create": "18.04.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.83878,
+          55.237064
+        ]
+      },
+      "properties": {
+        "id": 186,
+        "name": "Точка №186",
+        "area": 6422.833,
+        "status": false,
+        "date_create": "25.06.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.180713,
+          55.504562
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "name": "Точка №187",
+        "area": 5102.073,
+        "status": false,
+        "date_create": "09.12.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.633437,
+          55.517514
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "name": "Точка №188",
+        "area": 3403.987,
+        "status": false,
+        "date_create": "03.10.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.518947,
+          55.090353
+        ]
+      },
+      "properties": {
+        "id": 189,
+        "name": "Точка №189",
+        "area": 1059.549,
+        "status": true,
+        "date_create": "08.10.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.22821,
+          55.224431
+        ]
+      },
+      "properties": {
+        "id": 190,
+        "name": "Точка №190",
+        "area": 903.621,
+        "status": true,
+        "date_create": "20.01.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.284028,
+          55.337999
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "name": "Точка №191",
+        "area": 7043.957,
+        "status": false,
+        "date_create": "12.05.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.883468,
+          55.95539
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "name": "Точка №192",
+        "area": 430.836,
+        "status": false,
+        "date_create": "26.02.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.349787,
+          55.491987
+        ]
+      },
+      "properties": {
+        "id": 193,
+        "name": "Точка №193",
+        "area": 367.406,
+        "status": true,
+        "date_create": "28.04.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.442176,
+          55.429578
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "name": "Точка №194",
+        "area": 9723.608,
+        "status": false,
+        "date_create": "12.10.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.919578,
+          55.791798
+        ]
+      },
+      "properties": {
+        "id": 195,
+        "name": "Точка №195",
+        "area": 678.389,
+        "status": true,
+        "date_create": "01.01.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.070173,
+          55.486043
+        ]
+      },
+      "properties": {
+        "id": 196,
+        "name": "Точка №196",
+        "area": 8992.368,
+        "status": true,
+        "date_create": "30.05.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.810574,
+          55.696024
+        ]
+      },
+      "properties": {
+        "id": 197,
+        "name": "Точка №197",
+        "area": 564.374,
+        "status": true,
+        "date_create": "31.10.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.486273,
+          55.557747
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "name": "Точка №198",
+        "area": 1831.938,
+        "status": true,
+        "date_create": "25.12.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.439098,
+          55.146847
+        ]
+      },
+      "properties": {
+        "id": 199,
+        "name": "Точка №199",
+        "area": 1157.631,
+        "status": true,
+        "date_create": "10.07.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.83129,
+          56.405156
+        ]
+      },
+      "properties": {
+        "id": 200,
+        "name": "Точка №200",
+        "area": 4148.897,
+        "status": true,
+        "date_create": "03.04.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.65971,
+          56.39652
+        ]
+      },
+      "properties": {
+        "id": 201,
+        "name": "Точка №201",
+        "area": 5506.852,
+        "status": true,
+        "date_create": "23.10.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.677706,
+          55.978076
+        ]
+      },
+      "properties": {
+        "id": 202,
+        "name": "Точка №202",
+        "area": 3274.568,
+        "status": false,
+        "date_create": "02.06.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.907527,
+          56.100596
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "name": "Точка №203",
+        "area": 9425.634,
+        "status": true,
+        "date_create": "05.06.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.355151,
+          56.145192
+        ]
+      },
+      "properties": {
+        "id": 204,
+        "name": "Точка №204",
+        "area": 4829.216,
+        "status": true,
+        "date_create": "13.10.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.010373,
+          55.218591
+        ]
+      },
+      "properties": {
+        "id": 205,
+        "name": "Точка №205",
+        "area": 2319.345,
+        "status": false,
+        "date_create": "16.12.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.133263,
+          55.737227
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "name": "Точка №206",
+        "area": 4059.585,
+        "status": false,
+        "date_create": "23.09.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.339916,
+          56.435878
+        ]
+      },
+      "properties": {
+        "id": 207,
+        "name": "Точка №207",
+        "area": 1266.676,
+        "status": false,
+        "date_create": "09.07.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.411067,
+          56.13733
+        ]
+      },
+      "properties": {
+        "id": 208,
+        "name": "Точка №208",
+        "area": 3059.968,
+        "status": true,
+        "date_create": "08.04.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.209132,
+          56.303907
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "name": "Точка №209",
+        "area": 6243.313,
+        "status": true,
+        "date_create": "19.01.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.042793,
+          55.18296
+        ]
+      },
+      "properties": {
+        "id": 210,
+        "name": "Точка №210",
+        "area": 6178.038,
+        "status": true,
+        "date_create": "26.05.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.398883,
+          56.429842
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "name": "Точка №211",
+        "area": 7759.376,
+        "status": true,
+        "date_create": "12.02.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.96312,
+          55.844801
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "name": "Точка №212",
+        "area": 8228.072,
+        "status": false,
+        "date_create": "10.11.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.967802,
+          55.386852
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "name": "Точка №213",
+        "area": 5836.366,
+        "status": false,
+        "date_create": "04.05.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.115181,
+          56.315929
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "name": "Точка №214",
+        "area": 7240.604,
+        "status": true,
+        "date_create": "04.12.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.443026,
+          56.100687
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "name": "Точка №215",
+        "area": 1126.088,
+        "status": true,
+        "date_create": "01.11.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92148,
+          55.104912
+        ]
+      },
+      "properties": {
+        "id": 216,
+        "name": "Точка №216",
+        "area": 2687.829,
+        "status": true,
+        "date_create": "14.05.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.914263,
+          55.668245
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "name": "Точка №217",
+        "area": 7043.563,
+        "status": false,
+        "date_create": "24.12.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.191741,
+          55.91454
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "name": "Точка №218",
+        "area": 4760.787,
+        "status": false,
+        "date_create": "11.06.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.222891,
+          55.015735
+        ]
+      },
+      "properties": {
+        "id": 219,
+        "name": "Точка №219",
+        "area": 2288.133,
+        "status": false,
+        "date_create": "20.10.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.419235,
+          55.760186
+        ]
+      },
+      "properties": {
+        "id": 220,
+        "name": "Точка №220",
+        "area": 9911.953,
+        "status": false,
+        "date_create": "18.05.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.199875,
+          55.406365
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "name": "Точка №221",
+        "area": 7353.412,
+        "status": false,
+        "date_create": "06.09.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.962602,
+          55.244638
+        ]
+      },
+      "properties": {
+        "id": 222,
+        "name": "Точка №222",
+        "area": 1195.353,
+        "status": false,
+        "date_create": "17.09.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.557247,
+          55.194683
+        ]
+      },
+      "properties": {
+        "id": 223,
+        "name": "Точка №223",
+        "area": 4965.996,
+        "status": true,
+        "date_create": "20.04.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.320142,
+          55.121221
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "name": "Точка №224",
+        "area": 8770.118,
+        "status": false,
+        "date_create": "30.12.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86299,
+          56.206202
+        ]
+      },
+      "properties": {
+        "id": 225,
+        "name": "Точка №225",
+        "area": 5578.678,
+        "status": false,
+        "date_create": "23.07.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.10089,
+          55.779933
+        ]
+      },
+      "properties": {
+        "id": 226,
+        "name": "Точка №226",
+        "area": 8932.759,
+        "status": true,
+        "date_create": "08.01.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.076668,
+          55.769951
+        ]
+      },
+      "properties": {
+        "id": 227,
+        "name": "Точка №227",
+        "area": 2392.833,
+        "status": false,
+        "date_create": "20.06.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.028778,
+          55.311269
+        ]
+      },
+      "properties": {
+        "id": 228,
+        "name": "Точка №228",
+        "area": 6979.938,
+        "status": false,
+        "date_create": "30.04.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.901641,
+          55.081769
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "name": "Точка №229",
+        "area": 5268.95,
+        "status": true,
+        "date_create": "17.04.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.804445,
+          55.901229
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "name": "Точка №230",
+        "area": 9716.288,
+        "status": false,
+        "date_create": "15.07.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596775,
+          55.276541
+        ]
+      },
+      "properties": {
+        "id": 231,
+        "name": "Точка №231",
+        "area": 6175.228,
+        "status": true,
+        "date_create": "16.09.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.817417,
+          55.468469
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "name": "Точка №232",
+        "area": 5234.206,
+        "status": false,
+        "date_create": "08.11.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.305153,
+          56.001586
+        ]
+      },
+      "properties": {
+        "id": 233,
+        "name": "Точка №233",
+        "area": 9413.97,
+        "status": true,
+        "date_create": "08.01.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.760399,
+          55.860738
+        ]
+      },
+      "properties": {
+        "id": 234,
+        "name": "Точка №234",
+        "area": 1686.32,
+        "status": true,
+        "date_create": "18.03.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.52916,
+          56.177242
+        ]
+      },
+      "properties": {
+        "id": 235,
+        "name": "Точка №235",
+        "area": 1855.264,
+        "status": true,
+        "date_create": "23.06.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.058619,
+          55.588273
+        ]
+      },
+      "properties": {
+        "id": 236,
+        "name": "Точка №236",
+        "area": 9568.989,
+        "status": true,
+        "date_create": "14.05.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.362668,
+          55.183386
+        ]
+      },
+      "properties": {
+        "id": 237,
+        "name": "Точка №237",
+        "area": 5315.529,
+        "status": false,
+        "date_create": "05.08.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.914976,
+          55.220507
+        ]
+      },
+      "properties": {
+        "id": 238,
+        "name": "Точка №238",
+        "area": 7506.21,
+        "status": false,
+        "date_create": "04.02.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.355528,
+          55.437127
+        ]
+      },
+      "properties": {
+        "id": 239,
+        "name": "Точка №239",
+        "area": 9275.155,
+        "status": true,
+        "date_create": "27.07.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.331236,
+          55.474683
+        ]
+      },
+      "properties": {
+        "id": 240,
+        "name": "Точка №240",
+        "area": 2582.266,
+        "status": false,
+        "date_create": "26.02.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.984795,
+          55.078925
+        ]
+      },
+      "properties": {
+        "id": 241,
+        "name": "Точка №241",
+        "area": 6551.164,
+        "status": false,
+        "date_create": "28.07.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.489383,
+          55.620199
+        ]
+      },
+      "properties": {
+        "id": 242,
+        "name": "Точка №242",
+        "area": 6047.577,
+        "status": false,
+        "date_create": "02.04.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.956246,
+          55.876031
+        ]
+      },
+      "properties": {
+        "id": 243,
+        "name": "Точка №243",
+        "area": 4677.476,
+        "status": true,
+        "date_create": "03.08.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.018779,
+          56.244809
+        ]
+      },
+      "properties": {
+        "id": 244,
+        "name": "Точка №244",
+        "area": 725.313,
+        "status": false,
+        "date_create": "06.02.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.233136,
+          55.839271
+        ]
+      },
+      "properties": {
+        "id": 245,
+        "name": "Точка №245",
+        "area": 8176.388,
+        "status": false,
+        "date_create": "08.08.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.74381,
+          55.85488
+        ]
+      },
+      "properties": {
+        "id": 246,
+        "name": "Точка №246",
+        "area": 4424.578,
+        "status": false,
+        "date_create": "15.01.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73733,
+          55.305976
+        ]
+      },
+      "properties": {
+        "id": 247,
+        "name": "Точка №247",
+        "area": 9157.377,
+        "status": true,
+        "date_create": "17.06.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70076,
+          56.488174
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "name": "Точка №248",
+        "area": 5463.493,
+        "status": true,
+        "date_create": "03.10.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.683709,
+          55.07813
+        ]
+      },
+      "properties": {
+        "id": 249,
+        "name": "Точка №249",
+        "area": 5634.719,
+        "status": true,
+        "date_create": "12.12.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.411353,
+          55.484447
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "name": "Точка №250",
+        "area": 7569.434,
+        "status": false,
+        "date_create": "19.03.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.310362,
+          56.398032
+        ]
+      },
+      "properties": {
+        "id": 251,
+        "name": "Точка №251",
+        "area": 8767.917,
+        "status": true,
+        "date_create": "10.05.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.153003,
+          56.212251
+        ]
+      },
+      "properties": {
+        "id": 252,
+        "name": "Точка №252",
+        "area": 1506.204,
+        "status": true,
+        "date_create": "02.12.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.326714,
+          55.57597
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "name": "Точка №253",
+        "area": 7145.038,
+        "status": false,
+        "date_create": "22.06.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.209189,
+          55.879044
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "name": "Точка №254",
+        "area": 9751.815,
+        "status": true,
+        "date_create": "23.11.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.455408,
+          55.658023
+        ]
+      },
+      "properties": {
+        "id": 255,
+        "name": "Точка №255",
+        "area": 5004.794,
+        "status": false,
+        "date_create": "16.01.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.072768,
+          56.359991
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "name": "Точка №256",
+        "area": 9793.046,
+        "status": true,
+        "date_create": "23.02.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.093431,
+          55.721372
+        ]
+      },
+      "properties": {
+        "id": 257,
+        "name": "Точка №257",
+        "area": 3080.882,
+        "status": true,
+        "date_create": "04.09.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.872093,
+          56.170577
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "name": "Точка №258",
+        "area": 1050.751,
+        "status": false,
+        "date_create": "22.12.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85129,
+          55.489918
+        ]
+      },
+      "properties": {
+        "id": 259,
+        "name": "Точка №259",
+        "area": 9417.409,
+        "status": true,
+        "date_create": "22.11.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.174462,
+          55.483837
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "name": "Точка №260",
+        "area": 2786.935,
+        "status": true,
+        "date_create": "19.01.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.785141,
+          56.209839
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "name": "Точка №261",
+        "area": 5136.287,
+        "status": false,
+        "date_create": "29.11.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.172523,
+          55.280876
+        ]
+      },
+      "properties": {
+        "id": 262,
+        "name": "Точка №262",
+        "area": 1082.77,
+        "status": true,
+        "date_create": "23.04.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.720381,
+          56.380146
+        ]
+      },
+      "properties": {
+        "id": 263,
+        "name": "Точка №263",
+        "area": 3029.933,
+        "status": false,
+        "date_create": "26.01.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.262206,
+          55.23227
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "name": "Точка №264",
+        "area": 6226.371,
+        "status": true,
+        "date_create": "30.07.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.277799,
+          55.483858
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "name": "Точка №265",
+        "area": 4681.852,
+        "status": false,
+        "date_create": "19.06.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.303899,
+          56.395613
+        ]
+      },
+      "properties": {
+        "id": 266,
+        "name": "Точка №266",
+        "area": 2552.343,
+        "status": true,
+        "date_create": "12.09.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.959397,
+          55.460821
+        ]
+      },
+      "properties": {
+        "id": 267,
+        "name": "Точка №267",
+        "area": 9740.769,
+        "status": true,
+        "date_create": "23.08.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.927987,
+          55.373412
+        ]
+      },
+      "properties": {
+        "id": 268,
+        "name": "Точка №268",
+        "area": 1278.023,
+        "status": true,
+        "date_create": "25.12.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.859632,
+          55.678496
+        ]
+      },
+      "properties": {
+        "id": 269,
+        "name": "Точка №269",
+        "area": 5647.765,
+        "status": false,
+        "date_create": "01.10.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.454062,
+          55.132352
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "name": "Точка №270",
+        "area": 9645.391,
+        "status": false,
+        "date_create": "05.07.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.763217,
+          55.620389
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "name": "Точка №271",
+        "area": 1013.834,
+        "status": false,
+        "date_create": "23.06.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.507831,
+          56.074275
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "name": "Точка №272",
+        "area": 1688.081,
+        "status": false,
+        "date_create": "03.06.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.713457,
+          55.49352
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "name": "Точка №273",
+        "area": 311.542,
+        "status": false,
+        "date_create": "01.10.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.28797,
+          56.188427
+        ]
+      },
+      "properties": {
+        "id": 274,
+        "name": "Точка №274",
+        "area": 4558.377,
+        "status": false,
+        "date_create": "08.02.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.033912,
+          56.061669
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "name": "Точка №275",
+        "area": 2095.321,
+        "status": false,
+        "date_create": "17.09.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.607489,
+          55.613787
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "name": "Точка №276",
+        "area": 7077.493,
+        "status": false,
+        "date_create": "07.05.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.672245,
+          56.067962
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "name": "Точка №277",
+        "area": 8797.379,
+        "status": true,
+        "date_create": "07.11.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.448484,
+          56.387591
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "name": "Точка №278",
+        "area": 3378.071,
+        "status": false,
+        "date_create": "25.02.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.450476,
+          55.354181
+        ]
+      },
+      "properties": {
+        "id": 279,
+        "name": "Точка №279",
+        "area": 6868.783,
+        "status": true,
+        "date_create": "18.01.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.405616,
+          55.735048
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "name": "Точка №280",
+        "area": 4322.57,
+        "status": true,
+        "date_create": "14.12.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.035237,
+          55.760078
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "name": "Точка №281",
+        "area": 9703.469,
+        "status": false,
+        "date_create": "07.07.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.381051,
+          56.314149
+        ]
+      },
+      "properties": {
+        "id": 282,
+        "name": "Точка №282",
+        "area": 6815.548,
+        "status": false,
+        "date_create": "24.10.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.995703,
+          55.05415
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "name": "Точка №283",
+        "area": 863.825,
+        "status": false,
+        "date_create": "05.12.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.418279,
+          56.134339
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "name": "Точка №284",
+        "area": 2770.691,
+        "status": true,
+        "date_create": "14.04.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.214341,
+          55.240066
+        ]
+      },
+      "properties": {
+        "id": 285,
+        "name": "Точка №285",
+        "area": 9008.238,
+        "status": true,
+        "date_create": "28.04.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.476968,
+          55.729592
+        ]
+      },
+      "properties": {
+        "id": 286,
+        "name": "Точка №286",
+        "area": 5581.961,
+        "status": true,
+        "date_create": "19.07.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.176521,
+          56.400036
+        ]
+      },
+      "properties": {
+        "id": 287,
+        "name": "Точка №287",
+        "area": 8821.006,
+        "status": true,
+        "date_create": "05.09.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.376548,
+          55.695279
+        ]
+      },
+      "properties": {
+        "id": 288,
+        "name": "Точка №288",
+        "area": 536.82,
+        "status": true,
+        "date_create": "16.09.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.436629,
+          56.36788
+        ]
+      },
+      "properties": {
+        "id": 289,
+        "name": "Точка №289",
+        "area": 3380.258,
+        "status": false,
+        "date_create": "01.08.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.583711,
+          55.59376
+        ]
+      },
+      "properties": {
+        "id": 290,
+        "name": "Точка №290",
+        "area": 8774.35,
+        "status": true,
+        "date_create": "20.09.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.117222,
+          55.631654
+        ]
+      },
+      "properties": {
+        "id": 291,
+        "name": "Точка №291",
+        "area": 3400.86,
+        "status": false,
+        "date_create": "21.12.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.803148,
+          55.49176
+        ]
+      },
+      "properties": {
+        "id": 292,
+        "name": "Точка №292",
+        "area": 1068.069,
+        "status": true,
+        "date_create": "30.03.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.088026,
+          55.350433
+        ]
+      },
+      "properties": {
+        "id": 293,
+        "name": "Точка №293",
+        "area": 1417.176,
+        "status": false,
+        "date_create": "13.06.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.194675,
+          55.248181
+        ]
+      },
+      "properties": {
+        "id": 294,
+        "name": "Точка №294",
+        "area": 4703.588,
+        "status": false,
+        "date_create": "27.05.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.72698,
+          55.195356
+        ]
+      },
+      "properties": {
+        "id": 295,
+        "name": "Точка №295",
+        "area": 9287.199,
+        "status": false,
+        "date_create": "22.01.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.845499,
+          56.347224
+        ]
+      },
+      "properties": {
+        "id": 296,
+        "name": "Точка №296",
+        "area": 4189.209,
+        "status": false,
+        "date_create": "06.06.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587635,
+          56.297143
+        ]
+      },
+      "properties": {
+        "id": 297,
+        "name": "Точка №297",
+        "area": 3224.416,
+        "status": true,
+        "date_create": "24.07.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.488344,
+          55.520338
+        ]
+      },
+      "properties": {
+        "id": 298,
+        "name": "Точка №298",
+        "area": 374.353,
+        "status": false,
+        "date_create": "16.10.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.193718,
+          55.595787
+        ]
+      },
+      "properties": {
+        "id": 299,
+        "name": "Точка №299",
+        "area": 6366.766,
+        "status": false,
+        "date_create": "12.10.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.472026,
+          55.546246
+        ]
+      },
+      "properties": {
+        "id": 300,
+        "name": "Точка №300",
+        "area": 3687.87,
+        "status": true,
+        "date_create": "03.10.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.963022,
+          55.534201
+        ]
+      },
+      "properties": {
+        "id": 301,
+        "name": "Точка №301",
+        "area": 4286.768,
+        "status": false,
+        "date_create": "27.09.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.250998,
+          55.927478
+        ]
+      },
+      "properties": {
+        "id": 302,
+        "name": "Точка №302",
+        "area": 6222.178,
+        "status": false,
+        "date_create": "05.07.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.483766,
+          55.287127
+        ]
+      },
+      "properties": {
+        "id": 303,
+        "name": "Точка №303",
+        "area": 7917.054,
+        "status": false,
+        "date_create": "05.02.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.670386,
+          55.632533
+        ]
+      },
+      "properties": {
+        "id": 304,
+        "name": "Точка №304",
+        "area": 2890.205,
+        "status": true,
+        "date_create": "01.11.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.417247,
+          55.266331
+        ]
+      },
+      "properties": {
+        "id": 305,
+        "name": "Точка №305",
+        "area": 4615.004,
+        "status": true,
+        "date_create": "18.07.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.923159,
+          55.251891
+        ]
+      },
+      "properties": {
+        "id": 306,
+        "name": "Точка №306",
+        "area": 3349.245,
+        "status": false,
+        "date_create": "11.02.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.382353,
+          55.126467
+        ]
+      },
+      "properties": {
+        "id": 307,
+        "name": "Точка №307",
+        "area": 2848.432,
+        "status": false,
+        "date_create": "01.07.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.512559,
+          55.820064
+        ]
+      },
+      "properties": {
+        "id": 308,
+        "name": "Точка №308",
+        "area": 1141.067,
+        "status": false,
+        "date_create": "21.09.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.858503,
+          55.894533
+        ]
+      },
+      "properties": {
+        "id": 309,
+        "name": "Точка №309",
+        "area": 1746.753,
+        "status": false,
+        "date_create": "10.11.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.034303,
+          55.075412
+        ]
+      },
+      "properties": {
+        "id": 310,
+        "name": "Точка №310",
+        "area": 4207.312,
+        "status": true,
+        "date_create": "08.01.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.358756,
+          55.009685
+        ]
+      },
+      "properties": {
+        "id": 311,
+        "name": "Точка №311",
+        "area": 539.519,
+        "status": true,
+        "date_create": "17.05.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.394246,
+          56.349343
+        ]
+      },
+      "properties": {
+        "id": 312,
+        "name": "Точка №312",
+        "area": 9893.305,
+        "status": false,
+        "date_create": "06.03.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.451307,
+          56.05581
+        ]
+      },
+      "properties": {
+        "id": 313,
+        "name": "Точка №313",
+        "area": 3256.799,
+        "status": true,
+        "date_create": "21.06.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.169517,
+          56.425992
+        ]
+      },
+      "properties": {
+        "id": 314,
+        "name": "Точка №314",
+        "area": 8871.011,
+        "status": true,
+        "date_create": "03.03.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.476862,
+          55.92546
+        ]
+      },
+      "properties": {
+        "id": 315,
+        "name": "Точка №315",
+        "area": 7982.486,
+        "status": false,
+        "date_create": "17.03.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.230559,
+          56.396283
+        ]
+      },
+      "properties": {
+        "id": 316,
+        "name": "Точка №316",
+        "area": 7434.517,
+        "status": true,
+        "date_create": "30.03.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.093353,
+          55.868627
+        ]
+      },
+      "properties": {
+        "id": 317,
+        "name": "Точка №317",
+        "area": 8355.263,
+        "status": false,
+        "date_create": "01.11.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.885947,
+          55.239621
+        ]
+      },
+      "properties": {
+        "id": 318,
+        "name": "Точка №318",
+        "area": 3007.058,
+        "status": true,
+        "date_create": "27.10.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.403314,
+          55.443053
+        ]
+      },
+      "properties": {
+        "id": 319,
+        "name": "Точка №319",
+        "area": 192.565,
+        "status": true,
+        "date_create": "25.09.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.78164,
+          55.256466
+        ]
+      },
+      "properties": {
+        "id": 320,
+        "name": "Точка №320",
+        "area": 2171.95,
+        "status": true,
+        "date_create": "18.07.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.164241,
+          55.918856
+        ]
+      },
+      "properties": {
+        "id": 321,
+        "name": "Точка №321",
+        "area": 3983.764,
+        "status": false,
+        "date_create": "15.11.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.457641,
+          55.031993
+        ]
+      },
+      "properties": {
+        "id": 322,
+        "name": "Точка №322",
+        "area": 5247.34,
+        "status": false,
+        "date_create": "25.05.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.407465,
+          55.887079
+        ]
+      },
+      "properties": {
+        "id": 323,
+        "name": "Точка №323",
+        "area": 7468.094,
+        "status": true,
+        "date_create": "30.01.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.447875,
+          55.289641
+        ]
+      },
+      "properties": {
+        "id": 324,
+        "name": "Точка №324",
+        "area": 3841.863,
+        "status": true,
+        "date_create": "20.03.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.542742,
+          55.29536
+        ]
+      },
+      "properties": {
+        "id": 325,
+        "name": "Точка №325",
+        "area": 5130.091,
+        "status": true,
+        "date_create": "01.05.2026",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.478379,
+          56.382076
+        ]
+      },
+      "properties": {
+        "id": 326,
+        "name": "Точка №326",
+        "area": 9648.852,
+        "status": false,
+        "date_create": "10.07.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.183444,
+          55.138908
+        ]
+      },
+      "properties": {
+        "id": 327,
+        "name": "Точка №327",
+        "area": 6130.577,
+        "status": true,
+        "date_create": "09.05.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.310125,
+          56.145273
+        ]
+      },
+      "properties": {
+        "id": 328,
+        "name": "Точка №328",
+        "area": 9715.073,
+        "status": true,
+        "date_create": "08.07.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.00399,
+          55.988048
+        ]
+      },
+      "properties": {
+        "id": 329,
+        "name": "Точка №329",
+        "area": 3906.505,
+        "status": false,
+        "date_create": "21.03.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.565678,
+          55.630989
+        ]
+      },
+      "properties": {
+        "id": 330,
+        "name": "Точка №330",
+        "area": 9388.947,
+        "status": false,
+        "date_create": "24.01.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.110612,
+          55.013772
+        ]
+      },
+      "properties": {
+        "id": 331,
+        "name": "Точка №331",
+        "area": 4430.208,
+        "status": false,
+        "date_create": "20.08.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.327955,
+          55.242108
+        ]
+      },
+      "properties": {
+        "id": 332,
+        "name": "Точка №332",
+        "area": 3502.61,
+        "status": true,
+        "date_create": "20.02.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.708941,
+          55.410927
+        ]
+      },
+      "properties": {
+        "id": 333,
+        "name": "Точка №333",
+        "area": 8974.699,
+        "status": false,
+        "date_create": "09.05.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.78204,
+          55.073132
+        ]
+      },
+      "properties": {
+        "id": 334,
+        "name": "Точка №334",
+        "area": 374.611,
+        "status": true,
+        "date_create": "10.05.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.825745,
+          55.448084
+        ]
+      },
+      "properties": {
+        "id": 335,
+        "name": "Точка №335",
+        "area": 3537.423,
+        "status": true,
+        "date_create": "12.06.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.302552,
+          55.388344
+        ]
+      },
+      "properties": {
+        "id": 336,
+        "name": "Точка №336",
+        "area": 216.047,
+        "status": false,
+        "date_create": "05.05.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.128793,
+          55.735914
+        ]
+      },
+      "properties": {
+        "id": 337,
+        "name": "Точка №337",
+        "area": 2111.313,
+        "status": true,
+        "date_create": "18.05.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.895483,
+          56.017238
+        ]
+      },
+      "properties": {
+        "id": 338,
+        "name": "Точка №338",
+        "area": 3862.386,
+        "status": true,
+        "date_create": "31.12.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.111274,
+          56.113043
+        ]
+      },
+      "properties": {
+        "id": 339,
+        "name": "Точка №339",
+        "area": 4201.758,
+        "status": false,
+        "date_create": "05.07.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.44066,
+          56.100469
+        ]
+      },
+      "properties": {
+        "id": 340,
+        "name": "Точка №340",
+        "area": 7311.813,
+        "status": true,
+        "date_create": "13.02.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.288131,
+          55.173981
+        ]
+      },
+      "properties": {
+        "id": 341,
+        "name": "Точка №341",
+        "area": 2873.553,
+        "status": true,
+        "date_create": "27.07.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.391272,
+          56.388603
+        ]
+      },
+      "properties": {
+        "id": 342,
+        "name": "Точка №342",
+        "area": 3376.128,
+        "status": true,
+        "date_create": "05.07.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.335354,
+          55.399251
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "name": "Точка №343",
+        "area": 5092.984,
+        "status": true,
+        "date_create": "30.03.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.03969,
+          55.801993
+        ]
+      },
+      "properties": {
+        "id": 344,
+        "name": "Точка №344",
+        "area": 7018.129,
+        "status": true,
+        "date_create": "28.09.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.070198,
+          55.779838
+        ]
+      },
+      "properties": {
+        "id": 345,
+        "name": "Точка №345",
+        "area": 515.816,
+        "status": false,
+        "date_create": "07.06.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.349931,
+          56.400146
+        ]
+      },
+      "properties": {
+        "id": 346,
+        "name": "Точка №346",
+        "area": 3616.265,
+        "status": true,
+        "date_create": "14.08.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.126191,
+          56.443515
+        ]
+      },
+      "properties": {
+        "id": 347,
+        "name": "Точка №347",
+        "area": 1409.08,
+        "status": false,
+        "date_create": "15.06.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.007614,
+          56.032115
+        ]
+      },
+      "properties": {
+        "id": 348,
+        "name": "Точка №348",
+        "area": 3643.485,
+        "status": true,
+        "date_create": "11.08.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.297062,
+          55.4094
+        ]
+      },
+      "properties": {
+        "id": 349,
+        "name": "Точка №349",
+        "area": 7907.349,
+        "status": true,
+        "date_create": "02.02.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.422326,
+          55.128385
+        ]
+      },
+      "properties": {
+        "id": 350,
+        "name": "Точка №350",
+        "area": 2229.364,
+        "status": false,
+        "date_create": "29.05.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.170338,
+          56.171811
+        ]
+      },
+      "properties": {
+        "id": 351,
+        "name": "Точка №351",
+        "area": 8111.754,
+        "status": true,
+        "date_create": "20.04.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.874745,
+          55.52802
+        ]
+      },
+      "properties": {
+        "id": 352,
+        "name": "Точка №352",
+        "area": 9616.153,
+        "status": true,
+        "date_create": "14.03.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.829158,
+          56.265109
+        ]
+      },
+      "properties": {
+        "id": 353,
+        "name": "Точка №353",
+        "area": 9440.612,
+        "status": false,
+        "date_create": "08.04.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.237999,
+          55.605148
+        ]
+      },
+      "properties": {
+        "id": 354,
+        "name": "Точка №354",
+        "area": 4671.384,
+        "status": false,
+        "date_create": "03.01.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624568,
+          56.412691
+        ]
+      },
+      "properties": {
+        "id": 355,
+        "name": "Точка №355",
+        "area": 2933.782,
+        "status": true,
+        "date_create": "16.03.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.210782,
+          55.074443
+        ]
+      },
+      "properties": {
+        "id": 356,
+        "name": "Точка №356",
+        "area": 2113.517,
+        "status": true,
+        "date_create": "08.10.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.449471,
+          55.833634
+        ]
+      },
+      "properties": {
+        "id": 357,
+        "name": "Точка №357",
+        "area": 5706.77,
+        "status": true,
+        "date_create": "02.10.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.331577,
+          56.478682
+        ]
+      },
+      "properties": {
+        "id": 358,
+        "name": "Точка №358",
+        "area": 8915.112,
+        "status": false,
+        "date_create": "20.04.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.062292,
+          55.559716
+        ]
+      },
+      "properties": {
+        "id": 359,
+        "name": "Точка №359",
+        "area": 747.558,
+        "status": false,
+        "date_create": "06.03.2026",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.379994,
+          56.133253
+        ]
+      },
+      "properties": {
+        "id": 360,
+        "name": "Точка №360",
+        "area": 4235.209,
+        "status": true,
+        "date_create": "17.03.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.568477,
+          56.328244
+        ]
+      },
+      "properties": {
+        "id": 361,
+        "name": "Точка №361",
+        "area": 5279.674,
+        "status": true,
+        "date_create": "24.12.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.380633,
+          55.539166
+        ]
+      },
+      "properties": {
+        "id": 362,
+        "name": "Точка №362",
+        "area": 1054.146,
+        "status": true,
+        "date_create": "19.07.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.138896,
+          55.730501
+        ]
+      },
+      "properties": {
+        "id": 363,
+        "name": "Точка №363",
+        "area": 1846.251,
+        "status": true,
+        "date_create": "29.12.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.88455,
+          55.30704
+        ]
+      },
+      "properties": {
+        "id": 364,
+        "name": "Точка №364",
+        "area": 6722.038,
+        "status": false,
+        "date_create": "28.06.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.165221,
+          55.803338
+        ]
+      },
+      "properties": {
+        "id": 365,
+        "name": "Точка №365",
+        "area": 8009.381,
+        "status": false,
+        "date_create": "07.11.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.889725,
+          56.198056
+        ]
+      },
+      "properties": {
+        "id": 366,
+        "name": "Точка №366",
+        "area": 6005.3,
+        "status": false,
+        "date_create": "01.10.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.322049,
+          55.693644
+        ]
+      },
+      "properties": {
+        "id": 367,
+        "name": "Точка №367",
+        "area": 4953.278,
+        "status": true,
+        "date_create": "26.09.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.473128,
+          55.77515
+        ]
+      },
+      "properties": {
+        "id": 368,
+        "name": "Точка №368",
+        "area": 3859.628,
+        "status": true,
+        "date_create": "04.04.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.517573,
+          55.438163
+        ]
+      },
+      "properties": {
+        "id": 369,
+        "name": "Точка №369",
+        "area": 6832.106,
+        "status": true,
+        "date_create": "21.01.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.446765,
+          56.105287
+        ]
+      },
+      "properties": {
+        "id": 370,
+        "name": "Точка №370",
+        "area": 8406.073,
+        "status": false,
+        "date_create": "23.02.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.441971,
+          56.164671
+        ]
+      },
+      "properties": {
+        "id": 371,
+        "name": "Точка №371",
+        "area": 7035.724,
+        "status": true,
+        "date_create": "03.08.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.394752,
+          55.493514
+        ]
+      },
+      "properties": {
+        "id": 372,
+        "name": "Точка №372",
+        "area": 8104.863,
+        "status": false,
+        "date_create": "15.03.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.485158,
+          55.779201
+        ]
+      },
+      "properties": {
+        "id": 373,
+        "name": "Точка №373",
+        "area": 1050.004,
+        "status": false,
+        "date_create": "09.06.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.836597,
+          55.252893
+        ]
+      },
+      "properties": {
+        "id": 374,
+        "name": "Точка №374",
+        "area": 2032.741,
+        "status": false,
+        "date_create": "28.12.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.172618,
+          55.748327
+        ]
+      },
+      "properties": {
+        "id": 375,
+        "name": "Точка №375",
+        "area": 7575.762,
+        "status": true,
+        "date_create": "17.09.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.597862,
+          55.569914
+        ]
+      },
+      "properties": {
+        "id": 376,
+        "name": "Точка №376",
+        "area": 5644.993,
+        "status": true,
+        "date_create": "23.02.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.693534,
+          55.04697
+        ]
+      },
+      "properties": {
+        "id": 377,
+        "name": "Точка №377",
+        "area": 2913.842,
+        "status": false,
+        "date_create": "03.06.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.218573,
+          56.237399
+        ]
+      },
+      "properties": {
+        "id": 378,
+        "name": "Точка №378",
+        "area": 8534.317,
+        "status": false,
+        "date_create": "16.12.2020",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.27948,
+          55.753332
+        ]
+      },
+      "properties": {
+        "id": 379,
+        "name": "Точка №379",
+        "area": 8695.199,
+        "status": false,
+        "date_create": "12.08.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.544349,
+          56.409163
+        ]
+      },
+      "properties": {
+        "id": 380,
+        "name": "Точка №380",
+        "area": 9736.147,
+        "status": true,
+        "date_create": "29.06.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.329721,
+          55.020193
+        ]
+      },
+      "properties": {
+        "id": 381,
+        "name": "Точка №381",
+        "area": 3959.109,
+        "status": false,
+        "date_create": "28.02.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.403768,
+          55.377004
+        ]
+      },
+      "properties": {
+        "id": 382,
+        "name": "Точка №382",
+        "area": 2978.47,
+        "status": false,
+        "date_create": "19.08.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.314103,
+          56.14679
+        ]
+      },
+      "properties": {
+        "id": 383,
+        "name": "Точка №383",
+        "area": 1571.998,
+        "status": true,
+        "date_create": "07.07.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.406508,
+          55.301329
+        ]
+      },
+      "properties": {
+        "id": 384,
+        "name": "Точка №384",
+        "area": 5011.329,
+        "status": true,
+        "date_create": "16.02.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.312854,
+          55.293575
+        ]
+      },
+      "properties": {
+        "id": 385,
+        "name": "Точка №385",
+        "area": 2673.118,
+        "status": true,
+        "date_create": "02.03.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.076289,
+          55.675132
+        ]
+      },
+      "properties": {
+        "id": 386,
+        "name": "Точка №386",
+        "area": 7783.65,
+        "status": true,
+        "date_create": "04.06.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.375546,
+          55.558357
+        ]
+      },
+      "properties": {
+        "id": 387,
+        "name": "Точка №387",
+        "area": 6688.071,
+        "status": false,
+        "date_create": "22.12.2024",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.217798,
+          56.241461
+        ]
+      },
+      "properties": {
+        "id": 388,
+        "name": "Точка №388",
+        "area": 7998.235,
+        "status": true,
+        "date_create": "24.07.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.051994,
+          56.448263
+        ]
+      },
+      "properties": {
+        "id": 389,
+        "name": "Точка №389",
+        "area": 5897.104,
+        "status": true,
+        "date_create": "19.10.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.97979,
+          55.599206
+        ]
+      },
+      "properties": {
+        "id": 390,
+        "name": "Точка №390",
+        "area": 5490.538,
+        "status": false,
+        "date_create": "15.06.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.409535,
+          55.873804
+        ]
+      },
+      "properties": {
+        "id": 391,
+        "name": "Точка №391",
+        "area": 9917.53,
+        "status": true,
+        "date_create": "07.08.2023",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.971424,
+          55.431867
+        ]
+      },
+      "properties": {
+        "id": 392,
+        "name": "Точка №392",
+        "area": 3202.929,
+        "status": false,
+        "date_create": "20.04.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.776256,
+          55.917152
+        ]
+      },
+      "properties": {
+        "id": 393,
+        "name": "Точка №393",
+        "area": 7835.625,
+        "status": false,
+        "date_create": "30.12.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.742883,
+          56.114
+        ]
+      },
+      "properties": {
+        "id": 394,
+        "name": "Точка №394",
+        "area": 4656.662,
+        "status": false,
+        "date_create": "22.01.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.984347,
+          55.92798
+        ]
+      },
+      "properties": {
+        "id": 395,
+        "name": "Точка №395",
+        "area": 6598.592,
+        "status": false,
+        "date_create": "19.01.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.567557,
+          55.182336
+        ]
+      },
+      "properties": {
+        "id": 396,
+        "name": "Точка №396",
+        "area": 461.642,
+        "status": false,
+        "date_create": "10.03.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.366413,
+          56.010596
+        ]
+      },
+      "properties": {
+        "id": 397,
+        "name": "Точка №397",
+        "area": 4997.785,
+        "status": false,
+        "date_create": "24.08.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.152254,
+          55.842323
+        ]
+      },
+      "properties": {
+        "id": 398,
+        "name": "Точка №398",
+        "area": 6685.652,
+        "status": true,
+        "date_create": "18.01.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.569408,
+          56.296357
+        ]
+      },
+      "properties": {
+        "id": 399,
+        "name": "Точка №399",
+        "area": 8370.025,
+        "status": true,
+        "date_create": "01.07.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.64433,
+          55.803344
+        ]
+      },
+      "properties": {
+        "id": 400,
+        "name": "Точка №400",
+        "area": 5101.006,
+        "status": true,
+        "date_create": "19.04.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.217414,
+          55.51009
+        ]
+      },
+      "properties": {
+        "id": 401,
+        "name": "Точка №401",
+        "area": 9218.067,
+        "status": false,
+        "date_create": "06.10.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.255141,
+          55.03011
+        ]
+      },
+      "properties": {
+        "id": 402,
+        "name": "Точка №402",
+        "area": 1593.355,
+        "status": true,
+        "date_create": "13.05.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.192765,
+          55.202406
+        ]
+      },
+      "properties": {
+        "id": 403,
+        "name": "Точка №403",
+        "area": 1477.654,
+        "status": false,
+        "date_create": "01.04.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.927391,
+          56.245149
+        ]
+      },
+      "properties": {
+        "id": 404,
+        "name": "Точка №404",
+        "area": 6509.645,
+        "status": true,
+        "date_create": "05.08.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.637634,
+          55.449225
+        ]
+      },
+      "properties": {
+        "id": 405,
+        "name": "Точка №405",
+        "area": 5164.257,
+        "status": true,
+        "date_create": "10.03.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.155372,
+          56.402667
+        ]
+      },
+      "properties": {
+        "id": 406,
+        "name": "Точка №406",
+        "area": 1455.862,
+        "status": false,
+        "date_create": "25.11.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.065822,
+          55.139272
+        ]
+      },
+      "properties": {
+        "id": 407,
+        "name": "Точка №407",
+        "area": 3564.076,
+        "status": false,
+        "date_create": "19.02.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.489672,
+          55.822176
+        ]
+      },
+      "properties": {
+        "id": 408,
+        "name": "Точка №408",
+        "area": 6269.315,
+        "status": false,
+        "date_create": "26.12.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.241268,
+          55.23242
+        ]
+      },
+      "properties": {
+        "id": 409,
+        "name": "Точка №409",
+        "area": 2528.382,
+        "status": true,
+        "date_create": "02.11.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.057506,
+          55.979839
+        ]
+      },
+      "properties": {
+        "id": 410,
+        "name": "Точка №410",
+        "area": 8288.535,
+        "status": true,
+        "date_create": "17.03.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.452048,
+          56.110138
+        ]
+      },
+      "properties": {
+        "id": 411,
+        "name": "Точка №411",
+        "area": 6564.666,
+        "status": false,
+        "date_create": "14.10.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.717319,
+          56.139107
+        ]
+      },
+      "properties": {
+        "id": 412,
+        "name": "Точка №412",
+        "area": 1916.796,
+        "status": false,
+        "date_create": "05.02.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.081571,
+          55.558996
+        ]
+      },
+      "properties": {
+        "id": 413,
+        "name": "Точка №413",
+        "area": 2341.156,
+        "status": false,
+        "date_create": "25.12.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.425914,
+          55.247475
+        ]
+      },
+      "properties": {
+        "id": 414,
+        "name": "Точка №414",
+        "area": 4239.847,
+        "status": false,
+        "date_create": "02.01.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.494684,
+          55.875531
+        ]
+      },
+      "properties": {
+        "id": 415,
+        "name": "Точка №415",
+        "area": 6300.305,
+        "status": false,
+        "date_create": "13.09.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.500884,
+          56.484285
+        ]
+      },
+      "properties": {
+        "id": 416,
+        "name": "Точка №416",
+        "area": 6498.907,
+        "status": false,
+        "date_create": "14.11.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7079,
+          55.624703
+        ]
+      },
+      "properties": {
+        "id": 417,
+        "name": "Точка №417",
+        "area": 5428.791,
+        "status": true,
+        "date_create": "22.09.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.482118,
+          55.390067
+        ]
+      },
+      "properties": {
+        "id": 418,
+        "name": "Точка №418",
+        "area": 3499.899,
+        "status": false,
+        "date_create": "26.07.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.012541,
+          55.541813
+        ]
+      },
+      "properties": {
+        "id": 419,
+        "name": "Точка №419",
+        "area": 9596.31,
+        "status": false,
+        "date_create": "20.01.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.098394,
+          55.511894
+        ]
+      },
+      "properties": {
+        "id": 420,
+        "name": "Точка №420",
+        "area": 6742.683,
+        "status": true,
+        "date_create": "12.06.2023",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.292346,
+          55.070739
+        ]
+      },
+      "properties": {
+        "id": 421,
+        "name": "Точка №421",
+        "area": 202.432,
+        "status": false,
+        "date_create": "17.07.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.390876,
+          56.234075
+        ]
+      },
+      "properties": {
+        "id": 422,
+        "name": "Точка №422",
+        "area": 9867.623,
+        "status": true,
+        "date_create": "07.04.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.42498,
+          56.097009
+        ]
+      },
+      "properties": {
+        "id": 423,
+        "name": "Точка №423",
+        "area": 6846.607,
+        "status": false,
+        "date_create": "30.11.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596763,
+          55.373556
+        ]
+      },
+      "properties": {
+        "id": 424,
+        "name": "Точка №424",
+        "area": 7362.306,
+        "status": true,
+        "date_create": "08.05.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.503451,
+          55.382489
+        ]
+      },
+      "properties": {
+        "id": 425,
+        "name": "Точка №425",
+        "area": 5083.008,
+        "status": false,
+        "date_create": "02.02.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.811143,
+          55.623541
+        ]
+      },
+      "properties": {
+        "id": 426,
+        "name": "Точка №426",
+        "area": 358.823,
+        "status": true,
+        "date_create": "07.02.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.137749,
+          56.005099
+        ]
+      },
+      "properties": {
+        "id": 427,
+        "name": "Точка №427",
+        "area": 5010.992,
+        "status": false,
+        "date_create": "30.05.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.451222,
+          55.21482
+        ]
+      },
+      "properties": {
+        "id": 428,
+        "name": "Точка №428",
+        "area": 1619.528,
+        "status": false,
+        "date_create": "10.02.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.418263,
+          56.332856
+        ]
+      },
+      "properties": {
+        "id": 429,
+        "name": "Точка №429",
+        "area": 6777.029,
+        "status": true,
+        "date_create": "14.06.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.407646,
+          56.19192
+        ]
+      },
+      "properties": {
+        "id": 430,
+        "name": "Точка №430",
+        "area": 2843.341,
+        "status": true,
+        "date_create": "07.11.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.857615,
+          55.890747
+        ]
+      },
+      "properties": {
+        "id": 431,
+        "name": "Точка №431",
+        "area": 6818.243,
+        "status": true,
+        "date_create": "02.05.2026",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.492945,
+          56.090245
+        ]
+      },
+      "properties": {
+        "id": 432,
+        "name": "Точка №432",
+        "area": 1545.821,
+        "status": false,
+        "date_create": "06.02.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60398,
+          55.488634
+        ]
+      },
+      "properties": {
+        "id": 433,
+        "name": "Точка №433",
+        "area": 4139.671,
+        "status": false,
+        "date_create": "08.07.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.210612,
+          56.439711
+        ]
+      },
+      "properties": {
+        "id": 434,
+        "name": "Точка №434",
+        "area": 2118.52,
+        "status": false,
+        "date_create": "26.11.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.951248,
+          55.174817
+        ]
+      },
+      "properties": {
+        "id": 435,
+        "name": "Точка №435",
+        "area": 1735.431,
+        "status": true,
+        "date_create": "22.07.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.219916,
+          56.289298
+        ]
+      },
+      "properties": {
+        "id": 436,
+        "name": "Точка №436",
+        "area": 9207.263,
+        "status": true,
+        "date_create": "03.09.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.977774,
+          55.801287
+        ]
+      },
+      "properties": {
+        "id": 437,
+        "name": "Точка №437",
+        "area": 1342.371,
+        "status": true,
+        "date_create": "11.07.2025",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.833162,
+          55.795535
+        ]
+      },
+      "properties": {
+        "id": 438,
+        "name": "Точка №438",
+        "area": 4428.823,
+        "status": true,
+        "date_create": "24.11.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.672325,
+          56.314261
+        ]
+      },
+      "properties": {
+        "id": 439,
+        "name": "Точка №439",
+        "area": 5019.175,
+        "status": false,
+        "date_create": "14.10.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.733779,
+          55.954267
+        ]
+      },
+      "properties": {
+        "id": 440,
+        "name": "Точка №440",
+        "area": 1908.679,
+        "status": false,
+        "date_create": "10.07.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.293078,
+          55.360888
+        ]
+      },
+      "properties": {
+        "id": 441,
+        "name": "Точка №441",
+        "area": 6815.613,
+        "status": true,
+        "date_create": "30.09.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.186959,
+          55.211713
+        ]
+      },
+      "properties": {
+        "id": 442,
+        "name": "Точка №442",
+        "area": 1156.246,
+        "status": false,
+        "date_create": "03.02.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.480245,
+          56.408726
+        ]
+      },
+      "properties": {
+        "id": 443,
+        "name": "Точка №443",
+        "area": 2512.3,
+        "status": true,
+        "date_create": "05.07.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.487533,
+          55.58183
+        ]
+      },
+      "properties": {
+        "id": 444,
+        "name": "Точка №444",
+        "area": 5670.569,
+        "status": true,
+        "date_create": "07.04.2022",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.581085,
+          56.406352
+        ]
+      },
+      "properties": {
+        "id": 445,
+        "name": "Точка №445",
+        "area": 4716.578,
+        "status": false,
+        "date_create": "15.02.2023",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.291815,
+          55.394599
+        ]
+      },
+      "properties": {
+        "id": 446,
+        "name": "Точка №446",
+        "area": 9416.826,
+        "status": true,
+        "date_create": "28.05.2021",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.88201,
+          56.163079
+        ]
+      },
+      "properties": {
+        "id": 447,
+        "name": "Точка №447",
+        "area": 6131.099,
+        "status": false,
+        "date_create": "09.05.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.094568,
+          55.146294
+        ]
+      },
+      "properties": {
+        "id": 448,
+        "name": "Точка №448",
+        "area": 418.942,
+        "status": false,
+        "date_create": "28.04.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.317102,
+          56.186339
+        ]
+      },
+      "properties": {
+        "id": 449,
+        "name": "Точка №449",
+        "area": 7917.414,
+        "status": true,
+        "date_create": "05.07.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.183998,
+          56.079892
+        ]
+      },
+      "properties": {
+        "id": 450,
+        "name": "Точка №450",
+        "area": 7514.018,
+        "status": true,
+        "date_create": "01.09.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.74778,
+          56.467595
+        ]
+      },
+      "properties": {
+        "id": 451,
+        "name": "Точка №451",
+        "area": 7980.698,
+        "status": true,
+        "date_create": "07.07.2025",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.208563,
+          55.789349
+        ]
+      },
+      "properties": {
+        "id": 452,
+        "name": "Точка №452",
+        "area": 8756.925,
+        "status": true,
+        "date_create": "21.08.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.294768,
+          56.498706
+        ]
+      },
+      "properties": {
+        "id": 453,
+        "name": "Точка №453",
+        "area": 308.167,
+        "status": false,
+        "date_create": "01.03.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.136906,
+          55.752542
+        ]
+      },
+      "properties": {
+        "id": 454,
+        "name": "Точка №454",
+        "area": 1948.57,
+        "status": false,
+        "date_create": "16.10.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.904873,
+          55.06801
+        ]
+      },
+      "properties": {
+        "id": 455,
+        "name": "Точка №455",
+        "area": 45.999,
+        "status": false,
+        "date_create": "04.12.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.840249,
+          55.054814
+        ]
+      },
+      "properties": {
+        "id": 456,
+        "name": "Точка №456",
+        "area": 7633.017,
+        "status": false,
+        "date_create": "11.10.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.762245,
+          55.35363
+        ]
+      },
+      "properties": {
+        "id": 457,
+        "name": "Точка №457",
+        "area": 1046.707,
+        "status": false,
+        "date_create": "08.11.2020",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.24753,
+          56.47206
+        ]
+      },
+      "properties": {
+        "id": 458,
+        "name": "Точка №458",
+        "area": 871.606,
+        "status": false,
+        "date_create": "23.01.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.728679,
+          55.674701
+        ]
+      },
+      "properties": {
+        "id": 459,
+        "name": "Точка №459",
+        "area": 4386.564,
+        "status": true,
+        "date_create": "29.08.2021",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.944937,
+          55.13856
+        ]
+      },
+      "properties": {
+        "id": 460,
+        "name": "Точка №460",
+        "area": 5531.676,
+        "status": false,
+        "date_create": "08.11.2021",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.693932,
+          55.823951
+        ]
+      },
+      "properties": {
+        "id": 461,
+        "name": "Точка №461",
+        "area": 1878.076,
+        "status": true,
+        "date_create": "08.02.2024",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.217648,
+          55.095797
+        ]
+      },
+      "properties": {
+        "id": 462,
+        "name": "Точка №462",
+        "area": 6449.375,
+        "status": true,
+        "date_create": "26.08.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.766217,
+          56.294545
+        ]
+      },
+      "properties": {
+        "id": 463,
+        "name": "Точка №463",
+        "area": 5500.322,
+        "status": true,
+        "date_create": "11.05.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.492468,
+          55.173211
+        ]
+      },
+      "properties": {
+        "id": 464,
+        "name": "Точка №464",
+        "area": 7034.253,
+        "status": false,
+        "date_create": "29.11.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.002038,
+          55.371008
+        ]
+      },
+      "properties": {
+        "id": 465,
+        "name": "Точка №465",
+        "area": 7911.098,
+        "status": true,
+        "date_create": "30.04.2026",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.16437,
+          56.160313
+        ]
+      },
+      "properties": {
+        "id": 466,
+        "name": "Точка №466",
+        "area": 1435.624,
+        "status": true,
+        "date_create": "26.05.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.082164,
+          55.104965
+        ]
+      },
+      "properties": {
+        "id": 467,
+        "name": "Точка №467",
+        "area": 6372.067,
+        "status": false,
+        "date_create": "14.12.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.509646,
+          55.768702
+        ]
+      },
+      "properties": {
+        "id": 468,
+        "name": "Точка №468",
+        "area": 3110.541,
+        "status": true,
+        "date_create": "02.10.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.44298,
+          55.750718
+        ]
+      },
+      "properties": {
+        "id": 469,
+        "name": "Точка №469",
+        "area": 4439.991,
+        "status": true,
+        "date_create": "04.10.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.040723,
+          55.387668
+        ]
+      },
+      "properties": {
+        "id": 470,
+        "name": "Точка №470",
+        "area": 565.414,
+        "status": true,
+        "date_create": "24.02.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82474,
+          55.452405
+        ]
+      },
+      "properties": {
+        "id": 471,
+        "name": "Точка №471",
+        "area": 7860.297,
+        "status": false,
+        "date_create": "26.09.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.351126,
+          56.127383
+        ]
+      },
+      "properties": {
+        "id": 472,
+        "name": "Точка №472",
+        "area": 5274.566,
+        "status": true,
+        "date_create": "03.05.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.686634,
+          56.12545
+        ]
+      },
+      "properties": {
+        "id": 473,
+        "name": "Точка №473",
+        "area": 5992.997,
+        "status": true,
+        "date_create": "18.08.2020",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.448098,
+          56.411561
+        ]
+      },
+      "properties": {
+        "id": 474,
+        "name": "Точка №474",
+        "area": 9600.758,
+        "status": true,
+        "date_create": "03.04.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.743632,
+          55.270575
+        ]
+      },
+      "properties": {
+        "id": 475,
+        "name": "Точка №475",
+        "area": 1138.358,
+        "status": true,
+        "date_create": "04.05.2025",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.177265,
+          55.893447
+        ]
+      },
+      "properties": {
+        "id": 476,
+        "name": "Точка №476",
+        "area": 5763.187,
+        "status": true,
+        "date_create": "30.07.2026",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.034834,
+          55.265529
+        ]
+      },
+      "properties": {
+        "id": 477,
+        "name": "Точка №477",
+        "area": 9452.273,
+        "status": false,
+        "date_create": "01.08.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.005921,
+          56.461683
+        ]
+      },
+      "properties": {
+        "id": 478,
+        "name": "Точка №478",
+        "area": 7663.31,
+        "status": true,
+        "date_create": "22.09.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.072793,
+          55.81741
+        ]
+      },
+      "properties": {
+        "id": 479,
+        "name": "Точка №479",
+        "area": 2422.799,
+        "status": true,
+        "date_create": "14.06.2024",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.459937,
+          55.89076
+        ]
+      },
+      "properties": {
+        "id": 480,
+        "name": "Точка №480",
+        "area": 4224.091,
+        "status": true,
+        "date_create": "07.02.2025",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.183518,
+          56.205612
+        ]
+      },
+      "properties": {
+        "id": 481,
+        "name": "Точка №481",
+        "area": 2427.557,
+        "status": true,
+        "date_create": "21.04.2020",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.363974,
+          55.653769
+        ]
+      },
+      "properties": {
+        "id": 482,
+        "name": "Точка №482",
+        "area": 9116.82,
+        "status": false,
+        "date_create": "19.11.2022",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.783901,
+          55.620416
+        ]
+      },
+      "properties": {
+        "id": 483,
+        "name": "Точка №483",
+        "area": 6365.677,
+        "status": true,
+        "date_create": "26.03.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.860093,
+          55.081317
+        ]
+      },
+      "properties": {
+        "id": 484,
+        "name": "Точка №484",
+        "area": 4932.468,
+        "status": false,
+        "date_create": "23.03.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.568913,
+          56.015391
+        ]
+      },
+      "properties": {
+        "id": 485,
+        "name": "Точка №485",
+        "area": 5042.341,
+        "status": false,
+        "date_create": "01.06.2022",
+        "type": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.003043,
+          55.140499
+        ]
+      },
+      "properties": {
+        "id": 486,
+        "name": "Точка №486",
+        "area": 5452.862,
+        "status": true,
+        "date_create": "21.03.2021",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.732803,
+          55.105927
+        ]
+      },
+      "properties": {
+        "id": 487,
+        "name": "Точка №487",
+        "area": 2988.118,
+        "status": true,
+        "date_create": "17.06.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.21711,
+          55.949562
+        ]
+      },
+      "properties": {
+        "id": 488,
+        "name": "Точка №488",
+        "area": 4527.983,
+        "status": false,
+        "date_create": "26.11.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.101002,
+          55.770417
+        ]
+      },
+      "properties": {
+        "id": 489,
+        "name": "Точка №489",
+        "area": 1954.2,
+        "status": true,
+        "date_create": "20.10.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.908293,
+          55.103441
+        ]
+      },
+      "properties": {
+        "id": 490,
+        "name": "Точка №490",
+        "area": 3134.734,
+        "status": false,
+        "date_create": "15.04.2023",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.004648,
+          55.575458
+        ]
+      },
+      "properties": {
+        "id": 491,
+        "name": "Точка №491",
+        "area": 8551.832,
+        "status": true,
+        "date_create": "10.05.2021",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.365839,
+          55.441924
+        ]
+      },
+      "properties": {
+        "id": 492,
+        "name": "Точка №492",
+        "area": 341.95,
+        "status": false,
+        "date_create": "07.06.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.617294,
+          55.329821
+        ]
+      },
+      "properties": {
+        "id": 493,
+        "name": "Точка №493",
+        "area": 2862.14,
+        "status": true,
+        "date_create": "25.02.2023",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.946544,
+          55.531965
+        ]
+      },
+      "properties": {
+        "id": 494,
+        "name": "Точка №494",
+        "area": 4965.301,
+        "status": true,
+        "date_create": "05.10.2025",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.530644,
+          56.092127
+        ]
+      },
+      "properties": {
+        "id": 495,
+        "name": "Точка №495",
+        "area": 8846.831,
+        "status": false,
+        "date_create": "11.10.2022",
+        "type": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.044922,
+          55.976035
+        ]
+      },
+      "properties": {
+        "id": 496,
+        "name": "Точка №496",
+        "area": 9200.883,
+        "status": true,
+        "date_create": "18.11.2024",
+        "type": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.390316,
+          55.59032
+        ]
+      },
+      "properties": {
+        "id": 497,
+        "name": "Точка №497",
+        "area": 9983.324,
+        "status": false,
+        "date_create": "09.11.2020",
+        "type": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.642025,
+          55.899007
+        ]
+      },
+      "properties": {
+        "id": 498,
+        "name": "Точка №498",
+        "area": 7522.229,
+        "status": true,
+        "date_create": "11.02.2022",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.231373,
+          55.076926
+        ]
+      },
+      "properties": {
+        "id": 499,
+        "name": "Точка №499",
+        "area": 1964.472,
+        "status": true,
+        "date_create": "22.05.2024",
+        "type": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0555,
+          55.545532
+        ]
+      },
+      "properties": {
+        "id": 500,
+        "name": "Точка №500",
+        "area": 253.539,
+        "status": true,
+        "date_create": "25.07.2026",
+        "type": 3
+      }
+    }
+  ]
+}
