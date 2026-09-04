@@ -2,7 +2,35 @@
 
 Веб-приложение: карта точек (Москвы и области) и таблица с поиском, сортировкой и пагинацией. Клик по строке или маркеру показывает карточку под картой и подсвечивает точку.
 
-Один сервер — **Django**. React собирается Webpack в `frontend/dist/bundle.js`, Django отдаёт HTML, JS и API с `http://127.0.0.1:8000/`.
+Сервер — **Django**. React собирается Webpack в `frontend/dist/bundle.js`, Django отдаёт HTML, JS и API с `http://127.0.0.1:8000/`.
+
+Для контейнера достаточно **одного Dockerfile**: фронт — JS файл, БД — SQLite, отдельных сервисов нет.
+
+---
+
+## Docker
+
+Multi-stage образ в корне репозитория: Node собирает `frontend/dist/bundle.js`, затем Python/uv ставит Django и забирает только готовый бандл.
+
+```powershell
+docker build -t geo-points .
+docker run --name geo-points --rm -p 8000:8000 geo-points
+```
+
+Сайт тот же: **http://127.0.0.1:8000/**
+
+Что происходит когда:
+
+| Момент | Что делается |
+|---|---|
+| `docker build` | `npm run build`, `uv sync`, `migrate`, `generate_points` (500 точек в SQLite **внутри образа**) |
+| `docker run` | только `runserver 0.0.0.0:8000` |
+
+Первый набор точек — при сборке образа. Как создать новые — в разделе [Создать новые точки](#создать-новые-точки).
+
+`--name geo-points` нужен, чтобы потом зайти в контейнер через `docker exec`. Если имя уже занято — сначала `docker rm -f geo-points`.
+
+`.dockerignore` не кладёт в контекст `.git`, `node_modules`, `.venv`, локальный `db.sqlite3`.
 
 ---
 
@@ -108,24 +136,43 @@ uv run manage.py runserver
 
 ---
 
-## Работа геренатора точек
 
-Команда **удаляет все точки** и создаёт новые случайные.
+## Создать новые точки
 
-```
+Команда **удаляет все старые** точки и пишет случайные новые. По умолчанию 500 штук. После этого обновить страницу.
+
+Код: `backend/points/management/commands/generate_points.py`  
+Случайные поля и координаты: `backend/points/services.py`
+
+### Локально
+
+Нужны: зависимости (`uv sync`), миграции, папка `backend`.
+
+```powershell
 uv run manage.py generate_points
 ```
 
-По умолчанию 500 штук. Другое число:
+Другое число:
 
 ```powershell
 uv run manage.py generate_points -n 200
 ```
 
-Код: `backend/points/management/commands/generate_points.py`  
-Случайные поля и координаты: `backend/points/services.py`
+### Docker
 
-После генерации обновить страницу.
+Нужен уже запущенный контейнер с именем `geo-points` (как в разделе Docker). Образ пересобирать не нужно.
+
+```powershell
+docker exec geo-points uv run manage.py generate_points
+```
+
+Другое число:
+
+```powershell
+docker exec geo-points uv run manage.py generate_points -n 200
+```
+
+Если контейнер не запущен или имя другое, `docker exec` не сработает. Смотреть имя: `docker ps`.
 
 ---
 
@@ -134,6 +181,8 @@ uv run manage.py generate_points -n 200
 ```
 geo-points/
   README.md
+  Dockerfile
+  .dockerignore
   backend/
     config/          settings, urls
     points/          модель, API, команда generate_points
